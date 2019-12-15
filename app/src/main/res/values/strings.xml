@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HvA Quest</string>
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+
+    <!-- HomeFragment  -->
+    <string name="h_welcome">Welcome to the HvA Locations Quest</string>
+    <string name="h_intro">After pressing start you will start the quest. After each question a picture of a HvA building is shown. Go to the building and start the next question. At the end there will be a prize waiting for you!</string>
+    <string name="h_startquest">Start quest</string>
+
+    <!-- QuestionFragment  -->
+    <string name="h_number">%d/10</string>
+    <string name="h_confirm">Confirm</string>
+
+    <!-- ClueFragment  -->
+    <string name="h_clue">Go to the location as shown in the image below.</string>
+    <string name="h_next">Next question</string>
+
+    <!-- CompletedFragment  -->
+    <string name="h_congratz">Congratulations, you finished \nthe quest!\nHere is your prize\n(the cake is not a lie this time)</string>
+    <string name="h_finish">Finish</string>
+
+</resources>
